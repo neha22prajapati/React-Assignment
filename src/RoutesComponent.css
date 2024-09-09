@@ -1,0 +1,37 @@
+.routes-container {
+  border-bottom: 1px solid #eee;
+}
+
+.routes-container ul {
+  margin: 0;
+  padding: 30px;
+  list-style: none;
+  display: flex;
+}
+
+.routes-container li {
+  padding: 0 50px;
+}
+
+.routes-container .me-auto {
+  margin-right: 0 !important;
+}
+
+.routes-container .nav-link {
+  padding-left: 40px !important;
+  padding-right: 40px !important;
+}
+
+.routes-container .navbar-brand {
+  display: flex;
+  align-items: center;
+}
+
+.routes-container .navbar-brand img {
+  margin-right: 25px;
+}
+
+.routes-container .badge {
+  position: relative;
+  top: -10px;
+}

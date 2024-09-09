@@ -1,0 +1,16 @@
+
+.gender-table {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 18px;
+}
+
+.gender-table td {
+    padding: 1rem 0;
+    width: 50%;
+    border: 1px solid #ddd;
+}
+
+.disable-gender {
+    background: #e9ecef;
+}
