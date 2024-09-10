@@ -1,0 +1,11 @@
+
+.gender-component {
+    display: block !important;
+    margin-bottom: 18px;
+}
+
+.gender-component label { 
+    width: 50%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}

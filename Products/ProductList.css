@@ -1,0 +1,34 @@
+.product-list-li {
+  width: 23%;
+  display: inline-block !important;
+  list-style: none;
+  margin: 1%;
+  height: 470px;
+  vertical-align: top;
+  border: 0 !important;
+  cursor: pointer;
+}
+
+.product-list-li .card-img {
+  height: 300px;
+}
+
+.product-list-li .card-title {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.product-list-li img {
+  width: 60%;
+  margin: 10% 20%;
+  max-height: 260px;
+}
+
+.product-list-li button {
+  margin-top: 10px;
+}
+
+.card-body {
+  padding: 40px 20px 10px;
+}
